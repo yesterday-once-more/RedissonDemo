@@ -1,0 +1,5 @@
+com\liwei\demo\controller\RedisCacheController.class
+com\liwei\demo\entity\Student.class
+com\liwei\demo\service\impl\RedisCacheServiceImpl.class
+com\liwei\demo\service\RedisCacheService.class
+com\liwei\demo\DemoApplication.class
